@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5473EE65-0308-49C2-8FB9-365A842EA8BE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E03D2E4-BF05-4891-AF5C-3C763AC13B36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryAppTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "testFetchEmployeeDirectorySuccessfully()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E03D2E4-BF05-4891-AF5C-3C763AC13B36 - 108512b89cf7121b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryAppTests.NetworkManagerTests.testValueFetchedSuccessfully() -&gt; ()"
+                  moduleName = "DirectoryAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallpoindexter/Development/DirectoryApp/DirectoryAppTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "0E03D2E4-BF05-4891-AF5C-3C763AC13B36 - 108512b89cf7121b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryAppTests.NetworkManagerTests.testValueFetchedSuccessfully() -&gt; ()"
+                  moduleName = "DirectoryAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallpoindexter/Development/DirectoryApp/DirectoryAppTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "0E03D2E4-BF05-4891-AF5C-3C763AC13B36 - 108512b89cf7121b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryAppTests.NetworkManagerTests.testValueFetchedSuccessfully() -&gt; ()"
+                  moduleName = "DirectoryAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallpoindexter/Development/DirectoryApp/DirectoryAppTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "0E03D2E4-BF05-4891-AF5C-3C763AC13B36 - 108512b89cf7121b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryAppTests.NetworkManagerTests.testValueFetchedSuccessfully() -&gt; ()"
+                  moduleName = "DirectoryAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kendallpoindexter/Development/DirectoryApp/DirectoryAppTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
